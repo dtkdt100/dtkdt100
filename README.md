@@ -57,4 +57,6 @@ My name is Dolev Franco, feel free to contact me!
   ![Anurag's GitHub stats](https://github-readme-stats-ten-bice-35.vercel.app/api?username=dtkdt100&theme=dark)
   
   ![Top Langs](https://github-readme-stats-ten-bice-35.vercel.app/api/top-langs/?username=dtkdt100&exclude_repo=Country-King-Final,country-king-Ios,Privacy-Guard,MI_new,One-to-50-iOS,Roulette-for-Whatsapp,App-Indexer,1pictureAday,Grader-for-Mashov,One-to-50-new,Privacy-Guard-App,Grader-for-Mashov-Web,Whatsapp-Roulette-Web,One-to-50&theme=dark)
+  
+  ![](https://komarev.com/ghpvc/?username=dtkdt100)
 </details>
