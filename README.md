@@ -2,14 +2,6 @@
 
 My name is Dolev Franco, feel free to contact me!
 
-## General info about me:
-
-- 🧒🏼 I'm 17 years old, learning in the Kfar Hayarok, Israel
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play the piano and swim
-- 🥅 2022 Goals: Publish more packages to [pub.dev](https://pub.dev)
-- ❤️ My favorite language in dart
-
 ## Connect with me:
 
 [![website](./icons/youtube-light.svg)](https://www.youtube.com/channel/UCVlMAnEdbgo57g5c2cKzT1w#gh-light-mode-only)
