@@ -48,7 +48,15 @@ My name is Dolev Franco, feel free to contact me!
    </a>&nbsp;&nbsp;
         <a href="https://explainshell.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="c" width="26" height="26"/> </a>
    </a>&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python" width="26" height="26"/> </a> </p>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="c" width="26" height="26"/> </a>
+   </a>&nbsp;&nbsp;
+   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="c" width="26" height="26"/> </a>
+   </a>&nbsp;&nbsp;
+     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="c" width="26" height="26"/> </a>
+   </a>&nbsp;&nbsp;
+       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="c" width="26" height="26"/> </a>
+   </a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/> </a> </p>
 
 
 <details>
